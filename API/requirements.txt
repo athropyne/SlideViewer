@@ -1,0 +1,11 @@
+fastapi~=0.111.0
+openslide-python
+python-multipart
+aiofiles~=23.2.1
+sqlalchemy~=2.0.30
+asyncpg
+aioredis
+
+python-dotenv~=1.0.1
+starlette~=0.37.2
+redis
