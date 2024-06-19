@@ -1,3 +1,4 @@
 client/node_modules
 API/venv
 *.idea
+__pycache__

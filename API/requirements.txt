@@ -5,6 +5,7 @@ aiofiles~=23.2.1
 sqlalchemy~=2.0.30
 asyncpg
 aioredis
+pydantic==2.7
 
 python-dotenv~=1.0.1
 starlette~=0.37.2
